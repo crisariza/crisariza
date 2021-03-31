@@ -2,8 +2,8 @@
 
 - 📚 I’m studying at Henry Bootcamp
 - 💡 Feel free to check out my projects (HTML, CSS, Javascript, React, Redux, among others)
-- 👔 Connect with me on Linkedin!: www.linkedin.com/in/crisariza/
-- 🌐 And visit my webpage if you want to see more: www.cristianariza.tech
+- 👔 Connect with me on Linkedin!: linkedin.com/in/crisariza
+- 🌐 And visit my webpage if you want to see more: cristianariza.tech
 
 ### A few of my skills:
 
