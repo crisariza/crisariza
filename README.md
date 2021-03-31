@@ -7,5 +7,6 @@
 
 ### A few of my skills:
 
-- 💻HTML, CSS, Javascript, React, Redux, NodeJS, Express, MySQL
+- 💻HTML, CSS, Javascript, React, Redux, NodeJS, Express, PostgreSQL, Sequelize
 - 🗺️English and Spanish
+- 💬SCRUM methodologies
