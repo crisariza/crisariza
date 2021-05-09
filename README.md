@@ -3,7 +3,7 @@
 - 💡 Feel free to check out my projects
 - 📚 Graduated from Henry Bootcamp
 - 👔 Connect on Linkedin: https://linkedin.com/in/crisariza
-- 🌐 Visit my webpage if you want to see more: https://cristianariza.tech
+- 🌐 Visit my webpage if you want to see more: https://crisariza.com
 
 ### A few of my skills:
 
