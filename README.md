@@ -1,4 +1,4 @@
-### Hi! I'm Cris! 👋
+### Hey! Cris here👋
 
 - 💡 Feel free to check out my projects
 - 📚 Graduated from Henry Bootcamp
