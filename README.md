@@ -1,8 +1,7 @@
 ## It's me, @crisariza!
-<p><em>Software Enginner at <a href="https://www.accenture.com/">Accenture</a>
+Software Enginner at <a href="https://www.accenture.com/">Accenture</a>
 
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
-
+> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in JavaScript or Python. 
 -----------
 
 A little more about me...
@@ -16,5 +15,5 @@ A little more about me...
 
 - 🕹️ JavaScript, React, Redux, HTML, CSS and Tailwind
 - ⌨️ Python, NodeJS, Express, PostgreSQL, MongoDB and Sequelize
-- 🗺️ English and Spanish
+- 🗺️ English (C2) and Spanish (C2)
 - 💬 SCRUM methodologies
