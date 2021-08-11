@@ -3,10 +3,9 @@ Software Enginner at <a href="https://accenture.com/">Accenture</a>
 
 > I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
 -----------
-
 A little more about me...
 
-- 📚 Graduated from Henry Bootcamp
+- 📚 Graduated from <a href="https://www.soyhenry.com/">Henry Bootcamp</a>
 - 👔 https://linkedin.com/in/crisariza
 - 🌐 https://crisariza.com
 
