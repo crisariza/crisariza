@@ -6,7 +6,6 @@ Software Enginner at <a href="https://accenture.com/">Accenture</a>
 
 A little more about me...
 
-- 👨‍💻 Working full time at Accenture
 - 📚 Graduated from Henry Bootcamp
 - 👔 https://linkedin.com/in/crisariza
 - 🌐 https://crisariza.com
