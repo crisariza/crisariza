@@ -1,7 +1,7 @@
 ## It's me, @crisariza!
 Software Enginner at <a href="https://www.accenture.com/">Accenture</a>
 
-> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in JavaScript or Python. 
+> I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
 -----------
 
 A little more about me...
