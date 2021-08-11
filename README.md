@@ -13,7 +13,7 @@ A little more about me...
 
 ### Some of my skills:
 
-- 🕹️ JavaScript, React, Redux, HTML, CSS and Tailwind
+- 🕹️ JavaScript, TypeScript, React, Redux, HTML, CSS and Tailwind
 - ⌨️ Python, NodeJS, Express, PostgreSQL, MongoDB and Sequelize
 - 🗺️ English (C2) and Spanish (C2)
 - 💬 SCRUM methodologies
