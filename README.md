@@ -11,7 +11,7 @@ A little more about me...
 - 👔 https://linkedin.com/in/crisariza
 - 🌐 https://crisariza.com
 
-Some of my skills:
+Some of my skills...
 
 - 🕹️ JavaScript, TypeScript, React, Redux, HTML, CSS and Tailwind
 - ⌨️ Python, NodeJS, Express, PostgreSQL, MongoDB and Sequelize
