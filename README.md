@@ -1,5 +1,5 @@
 ## It's me, <a href="https://crisariza.com/">@crisariza</a>!
-Software Enginner at <a href="https://accenture.com/">Accenture</a>
+Software Developer at <a href="https://accenture.com/">Accenture</a>
 
 > I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
 -----------
