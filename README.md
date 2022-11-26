@@ -1,7 +1,7 @@
 ## It's me, <a href="https://crisariza.com/">@crisariza</a>!
 Software Developer at <a href="https://accenture.com/">Accenture</a>
 
-> I am a software developer with robust problem-solving skills and proven experience creating high quality software.
+> Developer with 2 years of experience. Looking forward to creating new complex software engineering projects. Thrilled to use programming skills to help an amazing company create a fantastic product. Excited about business, startups, crypto and cutting-edge tech. Dedicated to creating code quality over quantity.
 -----------
 A little more about me...
 
