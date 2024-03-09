@@ -1,14 +1,12 @@
 ## Hello there! I'm <a href="https://crisariza.com/">@crisariza</a>!
-Software Developer at <a href="https://accenture.com/">Accenture</a>
 
-> Developer with 2 years of experience. Looking forward to creating new complex software engineering projects. Thrilled to use programming skills to help an amazing company create a fantastic product. Excited about business, startups, crypto and cutting-edge tech. Dedicated to creating code quality over quantity.
+> Experienced developer with 3 years in creating innovative projects. Promoted once in the first 18 months as a developer. Eager to contribute to exceptional businesses by crafting outstanding software products. Committed to prioritizing code quality over quantity. Worked in 5+ projects in the past years.
 -----------
 A little more about me...
-
-- 📚 Studying Software Engineering at <a href="https://www.soyhenry.com/">UADE</a>
+- 🛠️ Working as a Software Engineer at Accenture
 - 📚 Graduated from <a href="https://www.soyhenry.com/">Henry Bootcamp as a Full Stack Developer</a>
-- 👔 https://linkedin.com/in/crisariza
-- 🌐 https://crisariza.com
+- 👔 Let's connect! https://linkedin.com/in/crisariza
+- 🌐 Check out my website: https://crisariza.com
 
 Some of my skills...
 
