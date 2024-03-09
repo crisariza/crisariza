@@ -4,7 +4,7 @@
 -----------
 A little more about me...
 - 🛠️ Working as a Software Engineer at Accenture
-- 📚 Graduated from <a href="https://www.soyhenry.com/">Henry Bootcamp as a Full Stack Developer</a>
+- 📚 Graduated from <a href="https://www.soyhenry.com/">Henry Bootcamp</a> as a Full Stack Developer
 - 👔 Let's connect! https://linkedin.com/in/crisariza
 - 🌐 Check out my website: https://crisariza.com
 
