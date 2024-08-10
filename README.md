@@ -13,4 +13,3 @@ Some of my skills...
 - 🕹️ JavaScript, TypeScript, React, React Native, Redux, Next, HTML, CSS and Tailwind
 - ⌨️ Python, NodeJS, Express, PostgreSQL, MongoDB and Sequelize
 - 🗺️ English (C2) and Spanish (C2)
-- 💬 SCRUM methodologies
