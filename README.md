@@ -1,4 +1,4 @@
-> Developer with over of 3 years of experience in creating projects.
+Developer with over of 3 years of experience in creating projects.
 -----------
 - 🛠️ Software Engineer at <a href="https://www.accenture.com/">Accenture</a>
 - 📚 Learned to code at <a href="https://www.soyhenry.com/">Henry Bootcamp</a>
